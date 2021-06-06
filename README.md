@@ -3,7 +3,7 @@
 ## By Arnav Mukhopadhyay (c) 2021-22     
   
   
-2 Assignments in Python.  
+2 Assignments in Python covering 28 programs.  
   
   
 Acceleratron is a Professional Training who have varied courses.  
